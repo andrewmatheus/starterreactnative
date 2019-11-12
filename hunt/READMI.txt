@@ -1,0 +1,5 @@
+BASE_URL: https://rocketseat-node.herokuapp.com/api
+
+UTILIZADA A DA ROCKETSEAT, SISTEMA DESENVOLVIDO DO CURSO STARTER NODEJS
+
+https://github.com/andrewmatheus/starternodejs
